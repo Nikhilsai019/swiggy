@@ -70,6 +70,9 @@ spec:
 ======================================
 		TO DEPLOY IT: kubectl create -f deployment-nginx.yml --validate=false
 		TO DELETE THE WHOLE CLUSTER: kops delete cluster --name cluster_name --yes
+		
+		
+		8978682128
     
 		
 		
